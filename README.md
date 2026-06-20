@@ -15,9 +15,6 @@ I work at the intersection of:
 - Dimensionality Reduction
 - Machine Learning and Deep Learning Systems
 
-My current work includes Hindi Song ASR, Indic language technologies, transliteration systems, and topology-aware representation learning.
----
-
 ## What I'm Working On
 
 ### Industry-Sponsored Research (CFILT × Saregama)
