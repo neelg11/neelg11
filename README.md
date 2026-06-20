@@ -31,7 +31,6 @@ My interests lie in **NLP**, **Speech Processing & ASR**, **Representation Learn
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="60"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="60"/>
   <img src="https://img.shields.io/badge/Librosa-FF6F00?style=for-the-badge&logo=python&logoColor=white" height="60"/>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" height="60"/>
 </p>
 
 <!-- Tools & Infrastructure -->
@@ -82,7 +81,7 @@ As the sole researcher on a Saregama-sponsored project at CFILT, I am developing
 
 - **Hyperbolic Embeddings for Open-Vocabulary Segmentation**
   - Built a SAM → CLIP → Poincaré Ball classification pipeline for open-vocabulary semantic segmentation.
-  - Improved **mIoU from 13.4 to 18.4** on the ADE20K benchmark through hyperbolic representation learning.
+  - Improved **mIoU from 17.4 to 18.4** on the ADE20K benchmark through hyperbolic representation learning.
 
 ---
 
@@ -95,5 +94,5 @@ As the sole researcher on a Saregama-sponsored project at CFILT, I am developing
 
 ## Connect
 
-- GitHub: [neilg11](https://github.com/neelg11)
+- GitHub: [neelg11](https://github.com/neelg11)
 - LinkedIn: [neelg11](https://linkedin.com/in/neelg11)
