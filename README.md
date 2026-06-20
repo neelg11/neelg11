@@ -68,19 +68,17 @@ Sole researcher on a Saregama-sponsored project developing speech and language t
  - Analyzing classical and modern DR methods, with a focus on topology preservation and representation quality.
 ---
 
-<!--## Other Projects
+## Other Projects
 
 - **Analyzing Non-Uniform Attention Head Allocation in GPT-2**
   - Investigated the effect of allocating different numbers of attention heads across transformer layers instead of using a uniform architecture.
   - Analyzed layer-wise contributions to language modeling performance and observed that early and late transformer layers carry a disproportionate share of the representational workload.
-  - Explored the implications for parameter-efficient transformer design and compute allocation.
 
 - **Hyperbolic Embeddings for Open-Vocabulary Segmentation**
   - Built a SAM → CLIP → Poincaré Ball classification pipeline for open-vocabulary semantic segmentation.
   - Improved **mIoU from 17.4 to 18.4** on the ADE20K benchmark through hyperbolic representation learning.
 
 ---
--->
 ## Education
 
 - **M.Tech, Computer Science & Engineering** — IIT Bombay (2024–2027)
