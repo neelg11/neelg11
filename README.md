@@ -53,7 +53,7 @@ As the sole researcher on a Saregama-sponsored project at CFILT, I am developing
 
 - **Hindi Song ASR**
   - Fine-tuning Whisper (Medium and Large-v3-Turbo) with LoRA for singing voice transcription on NVIDIA H100 GPUs.
-  - Achieved **12.12% CER** and **29.06% WER**, improving significantly over the zero-shot baseline (**~90% CER**, **~105% WER**{(WER can exceed 100% due to insertions).}).
+  - Achieved **12.12% CER** and **29.06% WER**, improving significantly over the zero-shot baseline **~90% CER**, **~105% WER** (WER can exceed 100% due to insertions).
 
 - **Indic Transliteration Engine**
   - Developed a syntax-based transliteration framework across **9 Indic scripts and Romanized Latin**.
