@@ -9,11 +9,7 @@ M.Tech CSE @ IIT Bombay (2024–2027) • Research Assistant @ CFILT Lab
 My research focuses on **speech and language technology for Indian languages** and **dimensionality reduction methods for high-dimensional data**.
 
 I work at the intersection of:
-- Natural Language Processing (NLP)
-- Speech Processing and Automatic Speech Recognition (ASR)
-- Representation Learning
-- Dimensionality Reduction
-- Machine Learning and Deep Learning Systems
+- Natural Language Processing (NLP) - Speech Processing and Automatic Speech Recognition (ASR) - Representation Learning - Dimensionality Reduction - Machine Learning and Deep Learning Systems
 
 ## What I'm Working On
 
