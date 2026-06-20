@@ -2,7 +2,7 @@
   <img src="./banner.gif" alt="Indraneel Ghosh" width="100%">
 </p>
 
-# Hi, I'm Indraneel (Neel) 👋
+# Hi, I'm Indraneel (Neel)
 
 M.Tech CSE @ IIT Bombay (2024–2027) · Research Assistant @ CFILT Lab
 
@@ -20,7 +20,7 @@ All under a Saregama-sponsored project at CFILT, where I'm the sole researcher.
 
 ---
 
-## 🧰 Tech
+## Tech
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
@@ -59,7 +59,7 @@ All under a Saregama-sponsored project at CFILT, where I'm the sole researcher.
 
 ---
 
-## 📌 Selected projects
+## Selected projects
 
 - **Encoder-Centric Whisper Fine-Tuning for Hindi Song ASR** — Identified an encoder representation bottleneck in speech-pretrained Whisper for singing voice; explored encoder-only LoRA, encoder+decoder LoRA, and frozen-encoder bottleneck-adapter variants.
 - **Whisper Web Inference Interface** — Flask app wrapping the fine-tuned model: audio upload, multiple decode strategies, server-side WER/CER, and a vanilla-JS transliteration frontend covering all 9 scripts.
@@ -67,14 +67,14 @@ All under a Saregama-sponsored project at CFILT, where I'm the sole researcher.
 
 ---
 
-## 🎓 Education
+## Education
 
 - **M.Tech, Computer Science & Engineering** — IIT Bombay (2024–2027)
 - **B.Tech, Electronics & Communication Engineering** — IIIT Pune
 
 ---
 
-## 🌐 Connect
+## Connect
 
 - GitHub: [neil-79](https://github.com/neil-79)
 - LinkedIn: [neel11](https://linkedin.com/in/neel11)
