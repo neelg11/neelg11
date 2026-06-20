@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.gif" alt="Indraneel Ghosh" width="100%">
+</p>
+
 # Hi, I'm Indraneel (Neel) 👋
 
 M.Tech CSE @ IIT Bombay (2024–2027) · Research Assistant @ CFILT Lab
