@@ -4,9 +4,18 @@
 
 ## Hi, I'm Indraneel (Neel)
 
-M.Tech CSE @ IIT Bombay (2024–2027) · Research Assistant @ CFILT Lab
+M.Tech CSE @ IIT Bombay (2024–2027) • Research Assistant @ CFILT Lab
 
-My research focuses on speech and language technology for Indian languages and dimensionality reduction methods for high-dimensional data. I work at the intersection of NLP, speech processing, representation learning, and machine learning systems.
+My research focuses on **speech and language technology for Indian languages** and **dimensionality reduction methods for high-dimensional data**.
+
+I work at the intersection of:
+- Natural Language Processing (NLP)
+- Speech Processing and Automatic Speech Recognition (ASR)
+- Representation Learning
+- Dimensionality Reduction
+- Machine Learning and Deep Learning Systems
+
+My current work includes Hindi Song ASR, Indic language technologies, transliteration systems, and topology-aware representation learning.
 ---
 
 ## What I'm Working On
