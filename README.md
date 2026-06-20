@@ -10,7 +10,7 @@ I work on speech and language technology for Indian languages — Hindi song ASR
 
 ---
 
-## 🔬 What I'm working on
+## What I'm working on
 
 - **Hindi Song ASR** — Fine-tuning Whisper (Medium / large-v3-turbo) with LoRA for singing-voice transcription. Encoder-centric adaptation on dual-H100 with DDP via `torchrun`. Standalone benchmark: 12.12% CER / 29.06% WER.
 - **Indic Transliteration Engine** — Syntax-based transliteration across 9 Indic scripts + Romanized Latin (Devanagari, Bengali, Gurmukhi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam) — 45 bidirectional language pairs.
