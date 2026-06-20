@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/neelg11/neelg11/main/intro.svg" alt="Indraneel Ghosh — Speech & NLP Researcher" width="100%">
 </p>
-# Hi, I'm Indraneel (Neel)
+## Hi, I'm Indraneel (Neel)
 
 M.Tech CSE @ IIT Bombay (2024–2027) · Research Assistant @ CFILT Lab
 
