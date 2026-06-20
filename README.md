@@ -64,7 +64,8 @@ Sole researcher on a Saregama-sponsored project developing speech and language t
   - Cut **WER 25%→8%, CER 9%→3%** on 2,000 proprietary Hindi song lyrics.
 
 ### M.Tech Thesis — Dimensionality Reduction for High-Dimensional Data
-- Analyzing classical and modern DR methods, with a focus on topology preservation and representation quality.
+
+ - Analyzing classical and modern DR methods, with a focus on topology preservation and representation quality.
 ---
 
 <!--## Other Projects
