@@ -95,5 +95,5 @@ As the sole researcher on a Saregama-sponsored project at CFILT, I am developing
 
 ## Connect
 
-- GitHub: [neilg11](https://github.com/neilg11)
+- GitHub: [neilg11](https://github.com/neelg11)
 - LinkedIn: [neelg11](https://linkedin.com/in/neelg11)
