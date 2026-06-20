@@ -6,17 +6,33 @@
 
 M.Tech CSE @ IIT Bombay (2024–2027) · Research Assistant @ CFILT Lab
 
-I work on speech and language technology for Indian languages — Hindi song ASR, transliteration across Indic scripts, and the messy real-world ML systems that tie them together. Theory-strong in ML/DL, with research experience in NLP and speech processing.
-
+My research focuses on speech and language technology for Indian languages and dimensionality reduction methods for high-dimensional data. I work at the intersection of NLP, speech processing, representation learning, and machine learning systems.
 ---
 
-## What I'm working on
+## What I'm Working On
 
-- **Hindi Song ASR** — Fine-tuning Whisper (Medium / large-v3-turbo) with LoRA for singing-voice transcription. Encoder-centric adaptation on dual-H100 with DDP via `torchrun`. Standalone benchmark: 12.12% CER / 29.06% WER.
-- **Indic Transliteration Engine** — Syntax-based transliteration across 9 Indic scripts + Romanized Latin (Devanagari, Bengali, Gurmukhi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam) — 45 bidirectional language pairs.
-- **LM Reranker (Shallow Fusion)** — Trained an LM reranker over IndicXlit for Romanized Hindi → Devanagari back-transliteration. Cut **WER 25% → 8%** and **CER 9% → 3%** on 2,000 proprietary Hindi song lyrics.
+### Industry-Sponsored Research (CFILT × Saregama)
 
-All under a Saregama-sponsored project at CFILT, where I'm the sole researcher.
+As the sole researcher on a Saregama-sponsored project at CFILT, I am developing speech and language technologies for Indian languages.
+
+- **Hindi Song ASR**
+  - Fine-tuning Whisper (Medium and Large-v3-Turbo) with LoRA for singing voice transcription on NVIDIA H100 GPUs.
+  - Achieved **12.12% CER** and **29.06% WER**, improving significantly over the zero-shot baseline (**~90% CER**, **~105% WER**).
+
+- **Indic Transliteration Engine**
+  - Developed a syntax-based transliteration framework across **9 Indic scripts and Romanized Latin**.
+  - Supports **45 bidirectional language pairs** covering Devanagari, Bengali, Gurmukhi, Gujarati, Odia, Tamil, Telugu, Kannada, and Malayalam.
+
+- **Language Model Reranker (Shallow Fusion)**
+  - Built an LM-based reranking pipeline on top of IndicXlit for Romanized Hindi to Devanagari back-transliteration.
+  - Reduced **WER from 25% to 8%** and **CER from 9% to 3%** on **2,000 proprietary Hindi song lyrics**.
+
+### M.Tech Thesis
+
+- **Analysis and Development of Dimensionality Reduction Methods for High-Dimensional Data**
+  - Studying classical and modern dimensionality reduction techniques.
+  - Evaluating their strengths, limitations, and representation quality.
+  - Exploring topology preservation, semantic structure, and representation learning in high-dimensional spaces.
 
 ---
 
