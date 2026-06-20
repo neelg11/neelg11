@@ -49,15 +49,22 @@ My interests lie in **NLP**, **Speech Processing & ASR**, **Representation Learn
 ## What I'm Working On
 
 ### Industry-Sponsored Research (CFILT × Saregama)
-Sole researcher on a Saregama-sponsored project developing speech and language tech for Indian languages.
+Sole researcher on a Saregama-sponsored project developing speech and language technology for Indian languages.
 
-- **Hindi Song ASR** — Fine-tuned Whisper (Medium, Large-v3-Turbo) with LoRA on H100s. **12.12% CER / 29.06% WER**, vs. ~90% CER / ~105% WER zero-shot baseline.
-- **Indic Transliteration Engine** — Syntax-based framework across **9 Indic scripts + Romanized Latin**, **45 bidirectional pairs** (Devanagari, Bengali, Gurmukhi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam).
-- **LM Reranker (Shallow Fusion)** — Reranking pipeline on IndicXlit for Romanized Hindi → Devanagari. Cut **WER 25%→8%, CER 9%→3%** on 2,000 proprietary song lyrics.
+- **Hindi Song ASR**
+  - Fine-tuned Whisper (Medium, Large-v3-Turbo) with LoRA for singing-voice transcription on NVIDIA H100s.
+  - **12.12% CER / 29.06% WER** — a large gain over the ~90% CER / ~105% WER zero-shot baseline.
+
+- **Indic Transliteration Engine**
+  - Syntax-based transliteration across **9 Indic scripts + Romanized Latin**, **45 bidirectional pairs**.
+  - Covers Devanagari, Bengali, Gurmukhi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam.
+
+- **LM Reranker (Shallow Fusion)**
+  - Built an LM reranking pipeline on IndicXlit for Romanized Hindi → Devanagari back-transliteration.
+  - Cut **WER 25%→8%, CER 9%→3%** on 2,000 proprietary Hindi song lyrics.
 
 ### M.Tech Thesis — Dimensionality Reduction for High-Dimensional Data
-Analyzing classical and modern DR methods, focusing on topology preservation and representation quality.
-
+Analyzing classical and modern DR methods, with a focus on topology preservation and representation quality.
 ---
 
 <!--## Other Projects
