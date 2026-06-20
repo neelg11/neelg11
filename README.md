@@ -74,12 +74,16 @@ As the sole researcher on a Saregama-sponsored project at CFILT, I am developing
 **Domains:** ASR fine-tuning · NLP · Multilingual NLP · LLM fine-tuning · Vision-Language Modeling
 
 ---
+## Other Projects
 
-## Selected projects
+- **Analyzing Non-Uniform Attention Head Allocation in GPT-2**
+  - Investigated the effect of allocating different numbers of attention heads across transformer layers instead of using a uniform architecture.
+  - Analyzed layer-wise contributions to language modeling performance and observed that early and late transformer layers carry a disproportionate share of the representational workload.
+  - Explored the implications for parameter-efficient transformer design and compute allocation.
 
-- **Encoder-Centric Whisper Fine-Tuning for Hindi Song ASR** — Identified an encoder representation bottleneck in speech-pretrained Whisper for singing voice; explored encoder-only LoRA, encoder+decoder LoRA, and frozen-encoder bottleneck-adapter variants.
-- **Whisper Web Inference Interface** — Flask app wrapping the fine-tuned model: audio upload, multiple decode strategies, server-side WER/CER, and a vanilla-JS transliteration frontend covering all 9 scripts.
-- **Hyperbolic Embeddings for Open-Vocabulary Segmentation** — SAM → CLIP → Poincaré-ball classification pipeline; improved mIoU 17.4 → 18.4 on ADE20K.
+- **Hyperbolic Embeddings for Open-Vocabulary Segmentation**
+  - Built a SAM → CLIP → Poincaré Ball classification pipeline for open-vocabulary semantic segmentation.
+  - Improved **mIoU from 13.4 to 18.4** on the ADE20K benchmark through hyperbolic representation learning.
 
 ---
 
