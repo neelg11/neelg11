@@ -22,29 +22,38 @@ All under a Saregama-sponsored project at CFILT, where I'm the sole researcher.
 
 ## 🧰 Tech
 
-**Languages**
+<!-- Programming Languages -->
+<h3>Programming Languages</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="45"/>
+</p>
 
-**ML / DL**
+<!-- ML / DL -->
+<h3>ML / DL</h3>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![PEFT / LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-EE4C2C?logo=huggingface&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-FF6F00?logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-EE4C2C?style=for-the-badge&logo=huggingface&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Librosa-FF6F00?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+</p>
 
-**Tools & Infra**
+<!-- Tools & Infrastructure -->
+<h3>Tools & Infrastructure</h3>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="45"/>
+</p>
 
 **Domains:** ASR fine-tuning · NLP · Multilingual NLP · LLM fine-tuning · Vision-Language Modeling
 
