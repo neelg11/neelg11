@@ -66,7 +66,6 @@ Sole researcher on a Saregama-sponsored project developing speech and language t
 ### M.Tech Thesis — Dimensionality Reduction for High-Dimensional Data
 
  - Analyzing classical and modern DR methods, with a focus on topology preservation and representation quality.
----
 
 ## Other Projects
 
