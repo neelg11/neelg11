@@ -45,30 +45,18 @@ My interests lie in **NLP**, **Speech Processing & ASR**, **Representation Learn
 
 **Domains:** ASR fine-tuning · NLP · Multilingual NLP · LLM fine-tuning · Vision-Language Modeling
 
+---
 ## What I'm Working On
 
 ### Industry-Sponsored Research (CFILT × Saregama)
+Sole researcher on a Saregama-sponsored project developing speech and language tech for Indian languages.
 
-As the sole researcher on a Saregama-sponsored project at CFILT, I am developing speech and language technologies for Indian languages.
+- **Hindi Song ASR** — Fine-tuned Whisper (Medium, Large-v3-Turbo) with LoRA on H100s. **12.12% CER / 29.06% WER**, vs. ~90% CER / ~105% WER zero-shot baseline.
+- **Indic Transliteration Engine** — Syntax-based framework across **9 Indic scripts + Romanized Latin**, **45 bidirectional pairs** (Devanagari, Bengali, Gurmukhi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam).
+- **LM Reranker (Shallow Fusion)** — Reranking pipeline on IndicXlit for Romanized Hindi → Devanagari. Cut **WER 25%→8%, CER 9%→3%** on 2,000 proprietary song lyrics.
 
-- **Hindi Song ASR**
-  - Fine-tuning Whisper (Medium and Large-v3-Turbo) with LoRA for singing voice transcription on NVIDIA H100 GPUs.
-  - Achieved **12.12% CER** and **29.06% WER**, improving significantly over the zero-shot baseline **~90% CER**, **~105% WER** (WER can exceed 100% due to insertions).
-
-- **Indic Transliteration Engine**
-  - Developed a syntax-based transliteration framework across **9 Indic scripts and Romanized Latin**.
-  - Supports **45 bidirectional language pairs** covering Devanagari, Bengali, Gurmukhi, Gujarati, Odia, Tamil, Telugu, Kannada, and Malayalam.
-
-- **Language Model Reranker (Shallow Fusion)**
-  - Built an LM-based reranking pipeline on top of IndicXlit for Romanized Hindi to Devanagari back-transliteration.
-  - Reduced **WER from 25% to 8%** and **CER from 9% to 3%** on **2,000 proprietary Hindi song lyrics**.
-
-### M.Tech Thesis
-
-- **Analysis and Development of Dimensionality Reduction Methods for High-Dimensional Data**
-  - Studying classical and modern dimensionality reduction techniques.
-  - Evaluating their strengths, limitations, and representation quality.
-  - Exploring topology preservation, semantic structure, and representation learning in high-dimensional spaces.
+### M.Tech Thesis — Dimensionality Reduction for High-Dimensional Data
+Analyzing classical and modern DR methods, focusing on topology preservation and representation quality.
 
 ---
 
