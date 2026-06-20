@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neelg11/neelg11/main/banner.svg" alt="Indraneel Ghosh — Speech & NLP Researcher" width="100%">
+  <img src="https://raw.githubusercontent.com/neelg11/neelg11/main/gif.svg" alt="Indraneel Ghosh — Speech & NLP Researcher" width="100%">
 </p> 
 
 ## Hi, I'm Indraneel (Neel)
