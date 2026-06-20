@@ -73,9 +73,6 @@ As the sole researcher on a Saregama-sponsored project at CFILT, I am developing
 
 ---
 
-
-
----
 ## Other Projects
 
 - **Analyzing Non-Uniform Attention Head Allocation in GPT-2**
