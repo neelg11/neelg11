@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/neelg11/neelg11/main/banner.svg" alt="Indraneel Ghosh — Speech & NLP Researcher" width="100%">
-</p> -->
+</p> 
 
 ## Hi, I'm Indraneel (Neel)
 
