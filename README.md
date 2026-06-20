@@ -53,7 +53,7 @@ Sole researcher on a Saregama-sponsored project developing speech and language t
 
 - **Hindi Song ASR**
   - Fine-tuned Whisper (Medium, Large-v3-Turbo) with LoRA for singing-voice transcription on NVIDIA H100s.
-  - **12.12% CER / 29.06% WER** — a large gain over the ~90% CER / ~105% WER zero-shot baseline.
+  - **12.12% CER, 29.06% WER** — a large gain over the ~90% CER, ~105% WER zero-shot baseline.
 
 - **Indic Transliteration Engine**
   - Syntax-based transliteration across **9 Indic scripts + Romanized Latin**, **45 bidirectional pairs**.
